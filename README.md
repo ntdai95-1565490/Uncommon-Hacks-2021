@@ -1,4 +1,4 @@
-# Uncommon-Hacks-2021
+# Uncommon Hacks 2021
 
 Team members: Dai Ngo Tan, Lily Li, and Divya Lidder
 
